@@ -1,1 +1,1 @@
-changes for conflict 
+This is a conflicting line in update_script branch.
